@@ -19,4 +19,4 @@ else:
         superuser.save()
         print("Superuser initialized!")
     except Exception as e:
-        print(e)
+        print(e)
