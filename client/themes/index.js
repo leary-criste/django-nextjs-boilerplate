@@ -54,4 +54,4 @@ export const customTheme = extendTheme(
     },
   },
   withDefaultColorScheme({ colorScheme: "primary" })
-);
+);
